@@ -1,20 +1,24 @@
-<h3> 🎯 Hello there, I'm Manushi Patel</h3>
 
-<pre>
-  Data Analyst | Data Engineer | Machine Learning Enthusiast 
-  
-  📍 Chicago, IL  
-  ✉️ manushiii13@gmail.com  
-  🔗 [LinkedIn](https://www.linkedin.com/in/manushi-patel-20m/)  
-  🏆 [GitHub](https://github.com/manupatel20)  
-</pre>
----
+<h1 align="center">🎯 Hello there, I'm Manushi Patel</h1>
+<div align="center">
+</div>
 
-### 👋 Welcome to My GitHub Profile!
+</div> <br/>
+📍 Chicago, IL     <br/>
+📫 <a href="mailto:manushiii13@gmail.com">manushiii13@gmail.com</a>  <br/>
+✉️ <a href="https://www.linkedin.com/in/manushi-patel-20m/" target="_blank">LinkedIn</a><br/>  
+🏆 <a href="https://github.com/manupatel20" target="_blank">GitHub</a><br/><br/>  
+👋 Welcome to My GitHub Profile!
 
-I’m Manushi Patel, a data-driven Computer Science graduate student interested in data analytics, data science, and machine learning. I enjoy exploring data, uncovering patterns, and building innovative solutions that drive meaningful insights.
-
-🌟 I believe in transforming raw data into meaningful stories through analytics and visualization.
+I'm a data-driven Computer Science graduate student passionate about:<br/>
+📊 Data Analytics<br/>
+📈 Data Science<br/>
+🤖 Machine Learning<br/>
+🤖 Arificial Intelligence<br/>
+<br/>
+💡 About Me<br/>
+I enjoy exploring data, uncovering patterns, and building innovative solutions that drive meaningful insights. My focus lies in transforming raw data into meaningful stories through analytics and visualization.
+<div align="left"> 
 
 ---
 
@@ -42,7 +46,7 @@ I’m Manushi Patel, a data-driven Computer Science graduate student interested 
   📌 Developed an LSTM model for stock price forecasting with real-time market data updates.  
   📌 Achieved 60% prediction accuracy and built a Streamlit web app for visualization.  
 </pre>
-🔗 [Project Repository](https://github.com/manupatel20/StockVision)  
+🔗 <a href="https://github.com/manupatel20/StockVision" target="_blank">Project Repository</a>  
 
 ![image](https://github.com/user-attachments/assets/5285130b-3753-4702-9717-232bbc55989d)
 
@@ -54,7 +58,7 @@ I’m Manushi Patel, a data-driven Computer Science graduate student interested 
   📌 Improved stakeholder decision-making by providing actionable insights.  
 </pre>
 
-🔗 [Project Repository](https://github.com/manupatel20/Company-Performance-Dashboard---Plants-data)  
+🔗 <a href="https://github.com/manupatel20/Company-Performance-Dashboard---Plants-data" target="_blank">Project Repository</a>  
 
 <img width="1179" alt="image" src="https://github.com/user-attachments/assets/01e9083a-f9ef-4dce-895a-1bcb21290665" />  
 
@@ -62,9 +66,9 @@ I’m Manushi Patel, a data-driven Computer Science graduate student interested 
 
 ### 🎯 Experience
 <h4>➡️ Data Analyst | LearnTricks Edutech (May 2024 - June 2024) </h4> 
-  📌 Analyzed a complex festive sale dataset and designed a dashboard, identifying key patterns and trends, resulting in a 25% enhancement in actionable insights.  
-  📌 Resolved data quality issues, leading to an 18% improvement in accuracy by fixing missing values and outliers.  
-<br/></br>
+  📌 Analyzed a complex festive sale dataset and designed a dashboard, identifying key patterns and trends, resulting in a 25% enhancement in actionable insights.<br/>  
+  📌 Resolved data quality issues, leading to an 18% improvement in accuracy by fixing missing values and outliers.<br/>  
+<br/>
 <h4>➡️ Research Intern | Indian Space Research Organization (ISRO) (Dec 2023 - Mar 2024)</h4>
 
   📌 Compiled and presented findings from 7 in-depth studies on Transformer applications in image enhancement, insights led to refining existing processes and increased project efficiency by 35%.  

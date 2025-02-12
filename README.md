@@ -58,13 +58,7 @@ I enjoy exploring data, uncovering patterns, and building innovative solutions t
 
 ### :bar_chart: Most Used Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupatel20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### :fire: My GitHub Stats :
-
-[![Manushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=manupatel20&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupatel20&layout=compact&theme=dark)](https://github.com/manupatel20/github-readme-stats)
 
 
 ---

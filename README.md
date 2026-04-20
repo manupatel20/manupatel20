@@ -5,7 +5,7 @@
 
 </div> <br/>
 📍 Chicago, IL     <br/>
-📫 <a href="mailto:manushiii13@gmail.com">manushiii13@gmail.com</a>  <br/>
+📫 <a href="mailto:manushiii13@gmail.com">manushipatel520@gmail.com</a>  <br/>
 ✉️ <a href="https://www.linkedin.com/in/manushi-patel-20m/" target="_blank">LinkedIn</a><br/>  
 🏆 <a href="https://github.com/manupatel20" target="_blank">GitHub</a><br/><br/>  
 👋 Welcome to My GitHub Profile!

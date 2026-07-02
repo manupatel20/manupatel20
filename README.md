@@ -4,7 +4,7 @@
 </div>
 
 </div> <br/>
-📍 Chicago, IL     <br/>
+📍 USA     <br/>
 📫 <a href="mailto:manushiii13@gmail.com">manushipatel520@gmail.com</a>  <br/>
 ✉️ <a href="https://www.linkedin.com/in/manushi-patel-20m/" target="_blank">LinkedIn</a><br/>  
 🏆 <a href="https://github.com/manupatel20" target="_blank">GitHub</a><br/><br/>  
@@ -89,6 +89,17 @@ I enjoy exploring data, uncovering patterns, and building innovative solutions t
 ---
 
 ### 🎯 Experience
+<h4>➡️ Software Development Consultant | Leap of Faith Technologies LLC., USA (Jun 2025 - Present) </h4> 
+  📌 Designed and implemented ETL workflows integrating patient healthcare records into a structured dataset used for AI model training, improving data accessibility and pipeline efficiency by ~30%.<br/>
+  📌 Built automated preprocessing steps for clinical data normalization, improving data consistency and reducing manual data preparation time by 40%.<br/>
+  📌 Created automated testing workflows and test cases in Jira and mobile test environments, improving reliability of clinical patrol applications.<br/>
+  📌 Organized test documentation and automation pipelines, enabling faster regression testing and improved engineering productivity by 22%.<br/>
+<br/>
+<h4>➡️ Data Engineer Intern | Morris Garages India (Jun 2024 - Aug 2024) </h4> 
+  📌 Collaborated with a 7-member team to build a centralized data warehouse consolidating 4+ years of enterprise data across departments.<br/>
+  📌 Built scalable data workflows and optimized query performance, reducing processing time by ~25%.<br/>  
+  📌 Consolidated all departmental datasets in 30 days, enabling unified reporting and faster executive insights.<br/> 
+<br/>
 <h4>➡️ Data Analyst | LearnTricks Edutech (May 2024 - June 2024) </h4> 
   📌 Analyzed a complex festive sale dataset and designed a dashboard, identifying key patterns and trends, resulting in a 25% enhancement in actionable insights.<br/>  
   📌 Resolved data quality issues, leading to an 18% improvement in accuracy by fixing missing values and outliers.<br/>  
